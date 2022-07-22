@@ -1,17 +1,15 @@
 ## Introduction
 Hi team,
 
-I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of difficulties while doing this project.It took me 2days just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some trouble.And I didn't test this project because postman doesn't work my laptop.if you give me an opportunity to work for your company I will fully format my laptop.
+I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of error while doing this project.It took me two days just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some trouble.I will fixed the issues very soon.
 
-I don't have any experience in the Laravel framework.I was learn the Laravel past two days and do this project.It is very easy to understand comparing with other framework because in my previous group project(Hostel Management system)fully depent on php it take 3month to do authendication process but laravel took me only 30 mins to do this authentication process so I want to start my career in your company to enhance my skill and knowledge.
+I don't have any experience in the Laravel framework.I was learn the Laravel past two days and do this project.It is very easy to understand comparing with other framework because in my previous group project(Hostel Management system) fully depent on php it take three months to do but laravel took me only 1days to do this project so I want to start my career in your company to enhance my skill and knowledge.
 
 I think I will get a good platform to explore my skill and knowledge to contribute to the progress of the organization as well as myself.
-If you will guide me I will do my best.
+If You will give me a chance to become a part of your reputed organization, I will do my best for the growth of your company for a long period of time.
 
 With Best Regards From,
 Asmiya Banu.
-
-
 
 
 
