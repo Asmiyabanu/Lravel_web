@@ -1,11 +1,20 @@
 ## Introduction
-Hello,
+Hi team,
 
-I am going to show you example of laravel 9 crud operation example. I explained simply step by step build a laravel 9 crud application. this example will help you laravel 9 crud application for beginners. you will learn how to create crud in laravel 9. Here, Creating a basic example of crud operation in laravel 9.
+I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of difficulties while doing this project.It took me 2days just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some trouble.And I didn't test this project because postman doesn't work my laptop.if you give me an opportunity to work for your company I will fully format my laptop.
 
-Laravel 9 is just released by yesterday, Laravel 9 gives several new features and LTS support. So if you are new to laravel then this tutorial will help you create an insert update delete application in laravel 9.
+I don't have any experience in the Laravel framework.I was learn the Laravel past two days and do this project.It is very easy to understand comparing with other framework because in my previous group project(Hostel Management system)fully depent on php it take 3month to do authendication process but laravel took me only 30 mins to do this authentication process so I want to start my career in your company to enhance my skill and knowledge.
 
-In this example, we will create a product crud application using laravel 9. we will create a products table with name and detail column using laravel 9 migration, then we will create routes, controller, view, and model files for the product module. we will use bootstrap 5 for design now. so let's follow the below step to create a crud operation with laravel 9.
+I think I will get a good platform to explore my skill and knowledge to contribute to the progress of the organization as well as myself.
+If you will guide me I will do my best.
+
+With Best Regards From,
+Asmiya Banu.
+
+
+
+
+
 
 ## Installation
 01 First download xampp and install that it is php 7.4 v<br>
