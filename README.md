@@ -24,6 +24,7 @@ Asmiya Banu.
 05 aftter instal the vs code as a text editor<br>
 
 note: im install the breeze pakage for authentication
+    : my sql database is abc_test.sql it is in the folder
 
 
 ## project
