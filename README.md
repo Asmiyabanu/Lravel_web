@@ -1,9 +1,41 @@
+## Introduction
+Hello,
 
-## project Screenshort
+I am going to show you example of laravel 9 crud operation example. I explained simply step by step build a laravel 9 crud application. this example will help you laravel 9 crud application for beginners. you will learn how to create crud in laravel 9. Here, Creating a basic example of crud operation in laravel 9.
+
+Laravel 9 is just released by yesterday, Laravel 9 gives several new features and LTS support. So if you are new to laravel then this tutorial will help you create an insert update delete application in laravel 9.
+
+In this example, we will create a product crud application using laravel 9. we will create a products table with name and detail column using laravel 9 migration, then we will create routes, controller, view, and model files for the product module. we will use bootstrap 5 for design now. so let's follow the below step to create a crud operation with laravel 9.
+
+## Installation
+01 First download xampp and install that it is php 7.4 v
+02 Download composer and install that it is latest V
+03 Then install laravel it is latest
+04 create the project in cmd
+05 aftter instal the vs code as a text editor
+
+note: im install the breeze pakage for authentication
+
+
+## project
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+
+
+## project Screenshorts
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(1).png" width="100%"></a></p> <br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(2).png" width="100%"></a></p> <br>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(3).png" width="100%"></a></p> <br>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(4).png" width="100%"></a></p> <br>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(5).png" width="100%"></a></p> <br>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(7).png" width="100%"></a></p> <br>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(8).png" width="100%"></a></p> <br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
