@@ -8,11 +8,11 @@ Laravel 9 is just released by yesterday, Laravel 9 gives several new features an
 In this example, we will create a product crud application using laravel 9. we will create a products table with name and detail column using laravel 9 migration, then we will create routes, controller, view, and model files for the product module. we will use bootstrap 5 for design now. so let's follow the below step to create a crud operation with laravel 9.
 
 ## Installation
-01 First download xampp and install that it is php 7.4 v
-02 Download composer and install that it is latest V
-03 Then install laravel it is latest
-04 create the project in cmd
-05 aftter instal the vs code as a text editor
+01 First download xampp and install that it is php 7.4 v<br>
+02 Download composer and install that it is latest V<br>
+03 Then install laravel it is latest<br>
+04 create the project in cmd<br>
+05 aftter instal the vs code as a text editor<br>
 
 note: im install the breeze pakage for authentication
 
