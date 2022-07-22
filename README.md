@@ -1,7 +1,7 @@
 ## Introduction
 Hi team,
 
-I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of error while doing this project.It took me two days just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some trouble.I will fixed the issues very soon.
+I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of error while doing this project.It took me two days just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some errors.I will fixed the issues very soon.
 
 I don't have any experience in the Laravel framework.I was learn the Laravel past two days and do this project.It is very easy to understand comparing with other framework because in my previous group project(Hostel Management system) fully depent on php it take three months to do but laravel took me only 1days to do this project so I want to start my career in your company to enhance my skill and knowledge.
 
