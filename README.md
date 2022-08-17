@@ -1,20 +1,6 @@
-## Introduction
-Hi team,
 
-I am Asmiya Banu,I have done this project according my core php knowledge.I face a lot of error while doing this project.It took me lot of time just install the software because my laptop has a lot of software used for different purposes to complete my 4years degree programme.All the software were in my laptop so it was give some errors.finally i was fix the some errors. and I don't have any experience in the Laravel framework.I was learn the Laravel past two days and do this project.It is very easy to understand comparing with other framework because in my previous group project(Hostel Management system) fully depent on php it take three months to do but laravel took me only 1days to do this project so I want to start my career in your company to enhance my skill and knowledge.
-
-I think I will get a good platform to explore my skill and knowledge to contribute to the progress of the organization as well as myself.
-If You will give me a chance to become a part of your reputed organization, I will do my best.
-
-However, i will waiting for your reply.....
-
-Thanks team for your valuable time.
-
-With Best Regards From,
-Asmiya Banu.
-
-
-
+## project
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 
 ## Installation
 01 First download xampp and install that it is php 7.4 v<br>
@@ -25,12 +11,6 @@ Asmiya Banu.
 
 note: im install the breeze pakage for authentication
     : my sql database is abc_test.sql it is in the folder
-
-
-## project
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
-
-
 
 ## project Screenshorts
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Asmiyabanu/PARALLAX_LravelTest/blob/main/Screenshots/Screenshot%20(1).png" width="100%"></a></p> <br>
